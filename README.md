@@ -60,6 +60,11 @@ O conjunto de dados utilizado neste projeto será 'recursos_humanos.csv'. Esse c
 3. Baixe o conjunto de dados.
 4. Execute os notebooks na ordem dentro do google colab
 
+<h3 align="left">Resultado</h3>
+
+Depois de fazer a análise exploratória e limpeza do dados, é feita uma normalização nos dados para que se possa fazer uma predição sobre a possibilidade de
+um funcionário da empresa continuar na mesma ou ser demitido.
+
 <h3 align="left">Autor</h3>
 "Thiago Henrique De Andrade Teles"
 
